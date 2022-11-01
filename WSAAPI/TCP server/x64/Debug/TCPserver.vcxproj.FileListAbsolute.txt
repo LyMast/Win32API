@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\Win32API\WSAAPI\TCPserver\x64\Debug\TCPserver.exe
+C:\Users\user\Desktop\Win32API\WSAAPI\TCPserver\x64\Debug\TCP server.exe
+C:\Users\user\Desktop\Win32API\WSAAPI\TCP server\x64\Debug\TCP server.exe

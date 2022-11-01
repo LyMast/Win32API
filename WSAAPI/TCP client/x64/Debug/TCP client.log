@@ -1,0 +1,4 @@
+﻿  Client.cpp
+C:\Users\user\Desktop\Win32API\WSAAPI\TCP client\Client.cpp(71,20): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\Win32API\WSAAPI\TCP client\Client.cpp(78,42): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TCP client.vcxproj -> C:\Users\user\Desktop\Win32API\WSAAPI\TCP client\x64\Debug\TCP client.exe
