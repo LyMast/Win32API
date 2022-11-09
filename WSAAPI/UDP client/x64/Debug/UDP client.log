@@ -1,0 +1,7 @@
+﻿  UDP_Clientcpp.cpp
+C:\Users\user\Desktop\Win32API\WSAAPI\UDP client\UDP_Clientcpp.cpp(45,20): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\Win32API\WSAAPI\UDP client\UDP_Clientcpp.cpp(51,88): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\Win32API\WSAAPI\UDP client\UDP_Clientcpp.cpp(67,10): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xeb'이(가) 있습니다.
+C:\Users\user\Desktop\Win32API\WSAAPI\UDP client\UDP_Clientcpp.cpp(67,69): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\user\Desktop\Win32API\WSAAPI\UDP client\UDP_Clientcpp.cpp(67,69): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  UDP client.vcxproj -> C:\Users\user\Desktop\Win32API\WSAAPI\UDP client\x64\Debug\UDP client.exe
