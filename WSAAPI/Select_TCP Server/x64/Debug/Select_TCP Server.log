@@ -1,4 +1,2 @@
 ﻿  Select_TCP_server.cpp
-Select_TCP_server.obj : error LNK2019: "void __cdecl err_quit(char const *)" (?err_quit@@YAXPEBD@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
-Select_TCP_server.obj : error LNK2019: "void __cdecl err_display(char const *)" (?err_display@@YAXPEBD@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
-C:\Users\user\Desktop\Win32API\WSAAPI\Select_TCP Server\x64\Debug\Select_TCP Server.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.
+  Select_TCP Server.vcxproj -> C:\Users\user\Desktop\Win32API\WSAAPI\Select_TCP Server\x64\Debug\Select_TCP Server.exe
